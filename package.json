@@ -1,0 +1,15 @@
+{
+  "name": "@achams/yaml2ts",
+  "version": "1.0.0",
+  "description": "Convert YAML files to TypeScript interfaces recursively",
+  "type": "module",
+  "main": "./lib/generate.mjs",
+  "bin": {
+    "yaml2ts": "./bin/yaml2ts.mjs"
+  },
+  "author": "Alexander Chamwada <alexanderchamwada@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
