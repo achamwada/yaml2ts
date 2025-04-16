@@ -1,6 +1,6 @@
 {
   "name": "@achams/yaml2ts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Convert YAML files to TypeScript interfaces recursively",
   "type": "module",
   "main": "./lib/generate.mjs",
