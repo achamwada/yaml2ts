@@ -9,6 +9,20 @@
   },
   "author": "Alexander Chamwada <alexanderchamwada@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achamwada/yaml2ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/achamwada/yaml2ts/issues"
+  },
+  "homepage": "https://github.com/achamwada/yaml2ts#readme",
+  "keywords": [
+    "yaml",
+    "typescript",
+    "ts",
+    "interface"
+  ],
   "dependencies": {
     "js-yaml": "^4.1.0"
   },
