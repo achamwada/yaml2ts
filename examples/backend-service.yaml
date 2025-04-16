@@ -1,0 +1,7 @@
+---
+service: web-app
+  JELO:
+    enabled: true
+datadog-resources:
+  enable-synthetics: false
+  synthetic-block: false

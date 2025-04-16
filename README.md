@@ -122,7 +122,7 @@ yaml2ts path/to/file.yaml
 
 ## 📄 License
 
-MIT — built by [Alexander Chamwada](https://continentaloasis.com) with ❤️
+MIT — built by [Alexander Chamwada](https://tripvoya.com) with ❤️
 
 ---
 
